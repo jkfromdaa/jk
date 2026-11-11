@@ -9,7 +9,8 @@ The work is being done in steps. Each step is checked against primary documents 
 | Step | Topic | Status |
 |---|---|---|
 | 1 | Facilities per site and per MW; backlog size, schedule and contracts; conditions that end or shrink a contract | Done as of 2026-11-11. Nebius needs a refresh after its Q3 report on 2026-11-12 |
-| 2 | Debt, and how delays interact with it | Not started |
+| 2 | Pricing, chip life, delays, customer credit, suppliers (files 04–06, tracker) | First pass 2026-11-11 under a limited search budget; many figures are from search summaries and still need checking at source |
+| 3 | Debt, and how delays interact with it | Not started |
 
 ## Where to start
 
@@ -23,6 +24,9 @@ Read [`research/00-summary.md`](research/00-summary.md). It holds the conclusion
 | [`research/coreweave/02-backlog-and-contracts.md`](research/coreweave/02-backlog-and-contracts.md) | Backlog definition and history, conversion schedule, contract ledger, which contracts are filed, verbatim termination terms, slippage to date |
 | [`research/nebius/01-facilities.md`](research/nebius/01-facilities.md) | The same site inventory for Nebius |
 | [`research/nebius/02-backlog-and-contracts.md`](research/nebius/02-backlog-and-contracts.md) | The same backlog and contract analysis for Nebius |
+| [`research/04-gpu-pricing-and-chip-life.md`](research/04-gpu-pricing-and-chip-life.md) | GPU rental price trackers and history, per-MW to per-GPU-hour conversion, proposed price ranges to 2031, depreciation lives and evidence on real earning life |
+| [`research/05-power-suppliers-and-delays.md`](research/05-power-suppliers-and-delays.md) | Power supplier per site, observed schedule slips and a proposed delay distribution, supplier map with tickers |
+| [`research/06-customer-credit.md`](research/06-customer-credit.md) | Whether backlog customers can pay: method, counterparty facts, backlog split by credit bucket, expected-loss range |
 | [`research/tracker.md`](research/tracker.md) | Five industry signals to watch, each with a dated baseline, the latest reading and the matching CoreWeave and Nebius numbers |
 | [`research/sources/contracts/`](research/sources/contracts/) | Plain-text copies of the nine customer agreements the two companies have filed with the SEC (redacted by the filers). Each file starts with its source URL |
 
