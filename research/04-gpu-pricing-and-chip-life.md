@@ -353,13 +353,13 @@ The central column implies roughly −12% a year. The low column implies roughly
 
 **Read directly [P]**
 
-- CoreWeave Q3 2026 call transcript (Motley Fool), local copy: scratchpad/work/fool_q3.txt
-- CoreWeave Q2 2026, Q1 2026, Q4 2025 call transcripts (Motley Fool), local copies: scratchpad/crwv_dl/crwv_q2_26.txt, crwv_q1_26.txt, crwv_q4_25.txt
-- CoreWeave FY2025 Form 10-K, local copy: scratchpad/dl/sec_crwv/txt/000176962826000104__crwv-20251231.txt
-- Nebius Q2 2026 call transcript (Motley Fool), local copy: scratchpad/work/q2_2026_call.txt
-- Nebius Q2 2026 shareholder letter and interim financial statements (Form 6-K exhibits), local copies: scratchpad/work/q2_26_letter.txt; scratchpad/dl/sec_nbis/txt/000110465926094844__nbis-20260812xex99d1.txt and ...xex99d2.txt
+- CoreWeave Q3 2026 call transcript (Motley Fool)
+- CoreWeave Q2 2026, Q1 2026, Q4 2025 call transcripts (Motley Fool)
+- CoreWeave FY2025 Form 10-K
+- Nebius Q2 2026 call transcript (Motley Fool)
+- Nebius Q2 2026 shareholder letter and interim financial statements (Form 6-K exhibits)
 - Nebius Q1 2026 interim statements: scratchpad/dl/sec_nbis/txt/000110465926064092__nbis-20260331xex99d2.txt
-- Applied Digital FY2026 10-K (Ellendale building sizes), local copy: scratchpad/crwv_dl/sec/apld_10k_fy26.txt
+- Applied Digital FY2026 10-K (Ellendale building sizes)
 - https://www.coreweave.com/pricing (fetched 2026-11-11; saved in scratchpad/r2a_dl/)
 - https://nebius.com/prices (fetched 2026-11-11; saved in scratchpad/r2a_dl/)
 - /home/user/jk/research/00-summary.md (step-1 figures for rents, Ellendale GPU count, rack power)
