@@ -1,0 +1,436 @@
+Nebius - Microsoft: Statement of Work effective 2025-09-07 (FY2025 Form 20-F, Exhibit 4.4)
+Source (SEC EDGAR, public filing): https://www.sec.gov/Archives/edgar/data/1513845/000110465926052948/nbis-20251231xex4d4.htm
+Delivery dates, tranche values and percentages are redacted.
+Plain-text conversion of the filed HTML exhibit, made 2026-11-11 for research. Layout is lost; wording is unchanged.
+"[*]" marks text the company redacted in the filing. Check the source URL before relying on any passage.
+====================================================================================================
+
+EX-4.4
+ 6
+ nbis-20251231xex4d4.htm
+ EX-4.4
+ Exhibit 4.4 
+ CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [*], HAS BEEN OMITTED BECAUSE THE REGISTRANT HAS DETERMINED THAT THE INFORMATION (I) IS NOT MATERIAL AND (II) IS THE TYPE OF INFORMATION THAT THE REGISTRANT TREATS AS PRIVATE OR CONFIDENTIAL. 
+ Microsoft PO#
+ Nebius Statement of Work 
+ (“ SOW ”)
+ Addresses and contacts for notices 
+ “Microsoft” 
+ “Nebius” 
+ Company Name :
+ Microsoft
+ Company Name :
+ Nebius, Inc. 
+ Primary Contact :
+ [*]
+ Primary Contact :
+ [*]
+ Address :
+ One Microsoft Way
+ Redmond, WA 98052
+ Address :
+ 10 State Street, Newburyport, MA 01950, United States
+ Email: 
+ [*] 
+ Email :
+ [*]
+ Microsoft Supplier Number: 
+ SOW Effective Date: 
+ 7 September 2025
+ SOW Expiration Date: 
+ [*]
+ Contract ID for Master Agreement:
+ Agreed and accepted 
+ “Microsoft” 
+ “ Nebius” 
+ Signature: /s/ Scott Guthrie
+ Signature: /s/ Boaz Tal
+ Name: SCOTT GUTHRIE
+ Name: BOAZ TAL
+ Title: EXECUTIVE VICE-PRESIDENT
+ Title: PRESIDENT
+ Date: 09/07/2025
+ Date: 09/08/2025
+ This SOW (and all Exhibits attached hereto), pursuant to the Microsoft Purchase Order Terms and Conditions (together with the SOW, the “ Agreement ”), is entered into by the parties and effective as of the SOW Effective Date above. Terms not defined herein will have the meaning provided in the PO Terms.
+ This SOW, in Exhibit F, sets out certain agreed changes to the PO Terms (the “ Amended PO Terms ”). Notwithstanding anything to the contrary in the PO Terms, if there is a conflict between this SOW, including the Amended PO Terms, and the PO Terms, then the SOW will control.
+ 1. Service Descriptions, Delivery Dates, and Service End Dates 
+ 1.1 Nebius will perform or deliver to Microsoft under the Agreement the services described in this SOW (collectively, the “ Services ”). The parties agree that the Services under this SOW are “Cloud Services” for the purposes of the PO Terms and that there are no Goods, Services or Deliverables provided under this SOW.
+ a.
+ This Agreement shall commence of the date hereof and shall continue until the last GPU Service End Date provided in Table 1 (the “ Term ”), and may be terminated solely in accordance with Section 3.3 of this SOW and Section 14 of Exhibit F. During the Term, Nebius will provide and make available to Microsoft Graphics Processing Units (GPUs) and hosting services, at the Data Center Location. The Data Center Location shall be the data center facilities located at [*].
+ b.
+ Nebius will deliver the GPU infrastructure by tranche, by its corresponding Delivery Date as set out in Table 1, each such GPU tranche being a “ GPU Service ”. The Service Term of each GPU Service will begin upon its Acceptance by Microsoft in accordance with the acceptance process described in Section 2.2 and end on [*]. The Service Term of each additional service will begin and end in accordance with the terms agreed for such service, aligned to the approach set out in this Section.
+ c.
+ Microsoft acknowledges and agrees that, by virtue of this reservation, it is obligated to pay the Fees for each GPU Service accepted in accordance with Section 2 for the entirety of its Service Term, irrespective of the actual usage or consumption of such GPU Service by Microsoft.
+ d.
+ The parties acknowledge that the assumptions underlying the number of GPUs to be deployed as outlined in Table 1 below include an initial reserve of data center power capacity for Microsoft deployment of storage and other non-GPU compute purposes supporting the GPU Services at the Data Center Location (the “ Additional Power Capacity Reserve ”). Following the signing of this SOW, the parties will work in good faith to finalize the design, requirements and pricing for such additional services. To the extent that it is not required for such purposes, the parties agree that the Additional Power Capacity Reserve will be utilized through the deployment of additional GPUs. For clarity, such additional GPUs shall be charged separately, in accordance with the GPU prices set out in Section 3.1 and the upfront / monthly payment percentages set out in Section 3.2, and in addition to the GPUs set out in Table 1 below.
+ e.
+ For example, in the event the parties assess that the Additional Power Capacity Reserve is not required in full and the available additional power will support increasing the total number of GPUs by up to [*] GPUs, the total Service Fees would be estimated to increase from $[*] up to $[*].
+ 1.1A Completion Condition 
+ a.
+ Nebius has informed Microsoft that it is seeking to obtain financing, and that the arrangement anticipated by this Agreement will be an important factor in obtaining such financing.
+ b.
+ Nebius shall use its reasonable efforts to ensure the financing is available and in place, via an executed arrangement, by no later than [*] days from the effective date of this Agreement.
+ c.
+ On request, Microsoft will provide reasonable cooperation to facilitate the financing, provided this does not unreasonably disrupt Microsoft’s ongoing business.
+ d.
+ Once the financing is obtained, Nebius shall evidence the same to Microsoft.
+ e.
+ This Agreement becomes effective upon signing and delivery by both parties however, except as otherwise provided in this provision, neither party will have any obligations under the Agreement until either of the Completion Scenarios, as described below, are satisfied in accordance with sub-section f. below.
+ f.
+ Completion Scenarios:
+ (i)
+ Nebius obtains the financing related to this Agreement and evidences it to Microsoft in accordance with this provision; or
+ (ii)
+ Nebius can finance this Agreement’s capital expenditure without the need for financing related to this Agreement, and notifies Microsoft in writing of the same.
+ g.
+ Nebius can notify Microsoft of the satisfaction of either of the Completion Scenarios at any time within the [*] day period from the effective date of this Agreement, and on such notice the Agreement shall be deemed completed and both parties’ shall be subject to their obligations, and rights under the same.
+ h.
+ If neither of the Completion Scenarios is completed in accordance with this provision within the [*] day period from the effective date of this Agreement, this Agreement shall be considered not to have come into effect, other than with regard to this provision, and both parties waive any claims they may have against each other with regard to the subject matter of this Agreement and its related negotiations.
+ i.
+ For clarity, there shall be no payment of any fees by Microsoft under this Agreement until either of the Completion Scenarios is successfully completed in accordance with this provision.
+ j.
+ Nebius acknowledges that the first GPU Service Delivery Date, as set out in Table 1 below, is within the [*] day period anticipated by this provision. The actual Delivery Date for the first GPU Service Delivery Date shall be the later of: (i) [*] (as set out in Table 1) or (ii) the date on which until either of the Completion Scenarios is successfully completed in accordance with this provision. Delivery in accordance with this provision will not result in the payment of any liquidated damages by Nebius.
+ Table 1 
+ Item # 
+ GPU Service 
+ GPU Service Delivery Date 
+ GPU Service End Date 
+ 1
+ [*]
+ [*]
+ [*]
+ 2
+ [*]
+ [*]
+ [*]
+ 3
+ [*]
+ [*]
+ [*]
+ 4
+ [*]
+ [*]
+ [*]
+ 5
+ [*]
+ [*]
+ [*]
+ 6
+ [*]
+ [*]
+ [*]
+ 7
+ [*]
+ [*]
+ [*]
+ 8
+ [*]
+ [*]
+ [*]
+ 9
+ [*]
+ [*]
+ [*]
+ 1.2 Right of First Offer – Future GPU Capacity 
+ a.
+ If Nebius develops and implements future GPU capacity at the Data Center Location, Microsoft shall have a right of first of offer to contract such GPU capacity in this new development.
+ b.
+ As part of its implementation of such future GPU capacity, Nebius shall notify Microsoft in writing of such additional capacity before any other third party, along with the price ($/GPU/hr) for such GPUs, prepayment amount, delivery dates, and term (“ ROFO Terms ”).
+ c.
+ Microsoft shall have [*] calendar days from receipt of such notice to elect, in writing, to contract the GPU capacity on such terms as an additional service under this Agreement.
+ d.
+ If Microsoft declines or fails to respond within the [*]-day period, Nebius may offer and contract the GPU capacity to third parties on terms no more favorable than the ROFO Terms offered to Microsoft, provided such transaction is completed within [*] calendar days of the offer to Microsoft.
+ 2. Acceptance Process 
+ Each GPU Service shall be subject to the following acceptance process (“ Acceptance ”):
+ Supplier Validation
+ [*]
+ Acceptance Period
+ Microsoft shall have [*] days following receipt of the Delivery Notice (“ Acceptance Period ”) to conduct its own testing and validation against the agreed-upon Acceptance Criteria in Exhibit C.
+ Acceptance or Rejection
+ ●
+ Acceptance: if testing by Microsoft confirms that the Services meet the Acceptance Criteria, Microsoft will provide Supplier with a written notice that the Services are accepted (“ Acceptance ”). 
+ ●
+ Rejection: if testing by Microsoft reveals that the Services fail to meet the Acceptance Criteria, Microsoft will provide a written notice of rejection detailing the specific deficiencies. Supplier will have [*] business days to cure the deficiencies and resubmit for acceptance testing. This process shall be continued until the Services are accepted. 
+ Deemed Acceptance
+ If Microsoft does not provide notice of rejection within the Acceptance Period, the Services will be deemed accepted.
+ Partial Acceptance 
+ Microsoft will Accept any GPU Service with a minimum of [*]% of the GPUs being functional. In such case, Nebius will have [*] business days to cure the deficiencies in the remaining [*]% of GPUs, after which, the SLA will apply to the GPU Service.
+ 3. Payment 
+ 3.1 GPU Prices. The parties have agreed to use the below prices to calculate the Service Fees owed under this Agreement:
+ GPU Type 
+ Service Term 
+ Price ($/GPU/hr) 
+ [*]
+ [*] YR 
+ $[*]/h
+ [*]
+ [*] YR 
+ $[*]/h
+ 3.2. Service Fees. Subject to Section 1.1(e), the total fees for the GPU Services (“ Service Fees ”) will not exceed USD $[*]. Any additional services mutually agreed to by the parties not forming part of the Services as at the effective date of this Agreement shall be charged for separately and additionally. The Service Fees will be payable in accordance with the following milestone payment schedule.
+ GPU Service 
+ Tranche 1
+ Tranche 2
+ Tranche 3
+ Tranche 4
+ Tranche 5
+ Tranche 6
+ Tranche 7
+ Tranche 8
+ Tranche 9
+ GPU Type 
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ GPU Quantity 
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ Delivery Date 
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ End Date 
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ Tranche Value ($) 
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ Milestone - Upfront Payment ($) 
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ Earliest Invoice Day for Upfront Payment 
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ Indicative Monthly Payment* ($) 
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ * Indicative Monthly Payments are calculated based on a [*] month and taking into account a prepayment of [*]%. These figures are included for illustrative purposes only. The actual monthly installment amounts for GPU Services will be calculated on the basis outlined in Section 3.2.a.iii below.
+ a.
+ Milestone Payment Calculations.
+ i.
+ The total amount owed for each GPU Service will be calculated by multiplying the number of GPUs by the corresponding Price and by the number of hours in the corresponding Service Term (“ Total Amount ”).
+ ii.
+ Each GPU Service Upfront Payment, in the table above, is calculated as [*] of the Tranche Value specified for each specific GPU Service in the table in Section 3.2 above.
+ iii.
+ The monthly installment amount for a GPU Service milestone will be calculated by multiplying the number of GPUs in the GPU Service by the Price per GPU multiplied by the number of hours in the month, and multiplying by [*] to reflect the necessary adjustment given the payment of the Upfront Amount. Microsoft will pay monthly installments in arrears over the course of the Service Term. Notwithstanding the foregoing, if any Services are provided during the Term, and which (a) do not form part of the Services as at the effective date of this Agreement, (b) have been mutually agreed to in writing, and (c) are subject to a separate charge, then Nebius shall be entitled to invoice Microsoft for such Services in accordance with this Agreement.
+ b.
+ When raising an invoice for a GPU Service Tranche, Nebius may only raise an invoice for a milestone on or after the Earliest Invoice Date. Microsoft will pay all invoices within [*] days from the date of invoice.
+ c.
+ Total Amounts are exclusive of sales tax, which will be included on each invoice, as applicable.
+ d.
+ Payment Method: All payments must be made by Wire or ACH transfer.
+ e.
+ Nebius will be solely responsible for all expenses it incurs while performing the Services, unless Microsoft otherwise consents in writing.
+ f.
+ In respect of the GPU Service 1 Upfront Payment, once the GPU Service is to be deployed in accordance with Section 1.1.A.j, Microsoft shall pay such invoice as soon as possible and in any event within [*] days of receiving the invoice.
+ 3.3 Early and Late Delivery 
+ a.
+ If Nebius becomes aware that a GPU Service item is likely to be delivered to Microsoft later than the applicable Delivery Date (as identified in Table 1), it will inform Microsoft (i) of such delay within [*] business days and (ii) of the anticipated date on which the item is likely to be delivered. Nebius will continue to keep Microsoft informed of any further delays in delivery within [*] business days after Nebius becomes aware of such delays.
+ b.
+ If a GPU Service is not Accepted by Microsoft by the end of its applicable Acceptance Period, then a credit of Liquidated Damages (as described in sub-section c below) shall be applied from the day after the applicable, failed Acceptance Period.
+ c.
+ The Liquidated Damages shall when payable for a GPU Service in accordance with sub-section b above, equal, for each day of delay, [*] of the daily bill for each day until the GPU Service is successfully delivered, or subject to sub-section d below.
+ d.
+ If: (i) a GPU Service has not been Accepted within [*] days following the end of the applicable
+ Acceptance Period (the “ Grace Period ”); or (ii) Nebius’s notifications to Microsoft make clear that a GPU Service, in Microsoft’s reasonable judgment, is not likely to be Accepted within the Grace Period, and Nebius cannot deliver an equivalent capacity (as determined by Microsoft in its sole reasonable discretion) by the Delivery Date, Microsoft may elect to either terminate the applicable GPU Service or agree to an updated Delivery Date (the “ Updated Delivery Date ”), such election to be exercised by no later than the final day of the Grace Period. Liquidated Damages shall no longer be payable after the Grace Period in respect of the relevant GPU Services. If Microsoft elects to terminate the applicable GPU Service, Nebius shall refund the Upfront Payment paid by Microsoft for such GPU Service, less any Liquidated Damages Paid in relation to such GPU Service. Such refund shall be payable within [*] days of the effective date of termination of the applicable GPU Service.
+ e.
+ If Microsoft has agreed to an Updated Delivery Date under Section 3.3.c and the applicable GPU Service is not delivered on or before the Updated Delivery Date, the applicable GPU Service will be deemed terminated by Microsoft, unless the parties agree otherwise in writing.
+ f.
+ If a specific GPU Service is terminated by Microsoft in accordance with its right in this Section 3.3, Microsoft will have no obligation to pay for that GPU Service.
+ g.
+ If Nebius can deliver a GPU Service on an earlier date than the Delivery Date (the “ Early Delivery Date ”), then Nebius may propose the Early Delivery Date to Microsoft at least [*] days prior to such Early Delivery Date. Microsoft shall have [*] business days from the date of Nebius’s proposal to accept or reject such proposed Early Delivery Date (provided that Microsoft shall not reject such proposed Early Delivery Date unless it has a commercially reasonable basis). Microsoft’s acceptance or failure to respond within such [*] days shall constitute acceptance of the Early Delivery Date, which shall be deemed the Delivery Date of such GPU Service. In the event of Microsoft’s rejection within such [*] days, the Delivery Date of such GPU Service shall not change and the proposed Early Delivery Date shall not be valid.
+ h.
+ Nebius will not deliver a tranche until all tranches with an earlier Delivery Date have been successfully merged with the existing production tranche(s); provided that Nebius can still deliver a tranche early in the event there has not been a successful merging of previously delivered tranches due to events outside of Nebius’s reasonable control (including Client’s failure to timely perform its obligations and responsibilities). A tranche has been successfully merged with the existing production tranche or tranches if all tranches in a given cluster are operating as a single compute cluster. For the avoidance of doubt, any delivery delays arising out of Nebius’s compliance with this Section 3.4.h will not trigger the terms (including, without limitation, Microsoft’s termination rights) described in Sections 3.4(a-g).
+ 4. Enhanced Ticketing Workflow & Monitoring 
+ Supplier acknowledges Microsoft’s interest in improving the efficiency of Supplier’s ticketing workflow. To support this goal, Supplier commits to dedicating engineering resources to collaborate with Microsoft’s technical teams. This collaboration will begin with a joint discovery workshop, to be completed within [*] days of the SOW Effective Date, with the objective of defining current-state challenges and desired future-state requirements. The output of this workshop will be a mutually agreed-upon project plan that outlines the scope, timeline, and resource allocation for developing and implementing a streamlined solution.
+ Supplier acknowledges Microsoft’s interest in providing necessary visibility to metrics and/or logs to enable Supplier’s monitoring solutions. To support this goal, Supplier commits to dedicating engineering resources to collaborate with Microsoft’s technical teams. This collaboration will begin with a joint discovery workshop, to be completed within [*] days of the SOW Effective Date, with the objective of defining current-state challenges and desired future-state requirements. The output of this workshop will be a mutually agreed-upon project plan that outlines the scope, timeline, and resource allocation for developing and implementing a streamlined solution. 
+ 5. Deployment Phase Project Governance and Communication 
+ Supplier is committed to maintaining optimal service availability and delivering product enhancements efficiently. Proactive and transparent communication will be provided regarding any technical issues or planned infrastructure changes, such as those to data center equipment, that may impact service availability. Furthermore, timely notifications will be issued concerning any potential feature or engineering delays, including details on the nature of the issue, its potential impact, and revised timelines. The goal is to minimize any potential disruption for Microsoft and enable effective planning through clear and anticipatory communication.
+ Commitment to Predictable Timelines
+ Supplier acknowledges that predictable, transparent, and reliable delivery is a critical success factor for Microsoft. Both parties will maintain a shared, end-to-end project timeline that includes built-in buffers for key dependencies. This timeline will be reviewed weekly.
+ Proactive Risk Communication
+ Supplier commits to notifying Microsoft in writing within [*] business days of identifying any significant risk that will likely impact a milestone delivery date. This notification will include a description of the risk, the potential impact, and a proposed mitigation plan.
+ Governance Structure
+ The parties will establish a formal governance plan, including weekly project status meetings, Monthly Business Reviews (MBRs), and a documented escalation matrix for critical P0 incidents (the “Red Button” protocol) documented in the Nebius-Microsoft RACI Chart ( Exhibit D ).
+ Status Reporting
+ Supplier will provide a written weekly status report to Microsoft detailing progress against milestones, risks, and upcoming activities.
+ Escalation Path
+ An escalation path for issue resolution will be documented in the Nebius-Microsoft RACI Chart (Exhibit D).
+ 6. Press release and communications 
+ Each Party may issue a mutually agreed upon press release (and may make any further subsequent mutually agreed public disclosure consistent with the content thereof).
+ Exhibit A - Service Level Agreement and Support Addendum 
+ ANNEX 1 - ENVIRONMENTAL KPI 
+ Exhibit B - Supplier Validation 
+ Exhibit C - Acceptance Criteria 
+ Exhibit D - RACI, Severity Definitions, Incident Response Times and Escalation Matrix 
+ Exhibit E: GPU as a Service Security Standards 
+ Annex 1 
+ PENETRATION TESTING REMEDIATION 
+ Annex 2 
+ Baseline Security Standards 
+ Exhibit F – Purchase Order Term Amendments 
+ 1.
+ Section 1 of the PO Terms shall be amended as follows:
+ “Deliverables” shall be items the SOW expressly states shall be owned by Microsoft.
+ 2.
+ Section 2 of the PO Terms is replaced with the following:
+ Relationship to Other Agreements: The terms and conditions of these PO Terms (including its SOW and any other document expressly anticipated by these PO Terms and the SOW – which as defined in the SOW are the “Agreement”) are the complete and binding agreement between Microsoft and Supplier, and additional or different terms (for example, online terms or agreements, including agreements that Microsoft accepts to login or access Goods, Services, Deliverables, or Cloud Services, such as installed applications, embedded software, software as a service, or a platform) will not supersede this Agreement unless the parties mutually execute a written document.
+ If any future Statements of Work are entered into by the Parties pursuant to these PO Terms for future services, then each Statement of Work shall be construed as a separate agreement, and there shall be no cross-defaults, rights of setoff, or other rights or remedies that span across such Statements of Work or that are contingent upon, or triggered by, any provision or circumstance occurring with respect to a different Statement of Work or agreement. Further, in the event the PO Terms are terminated or expire for any reason, this Statement of Work shall remain in full force and effect (with the provisions of the PO Terms continuing to apply with respect to this Statement of Work) until this Statement of Work expires or is terminated in accordance with its own terms.
+ 3.
+ Sections 5(a) and 5(c) of the PO Terms are deleted in their entirety and replaced with “Reserved”.
+ 4.
+ Section 5(b) of the PO Terms is replaced with the following:
+ Microsoft is not obligated to pay any invoice received from Supplier more than [*] days after the end of the service period the invoice relates to.
+ 5.
+ Section 5(d) of the PO Terms is replaced with the following:
+ If Supplier is in breach of its obligation under this Agreement to apply undisputed service credits against the charges for the GPU Services, then Microsoft shall be entitled to set off such undisputed service credits against charges payable under this Agreement. Microsoft will provide notice to Supplier within a reasonable time after the set-off.
+ 6.
+ Section 6 of the PO Terms is supplemented with the following:
+ e.
+ If Supplier is legally required to withhold and remit applicable sales tax on Service Fees,
+ applicable sales tax will be invoiced by Supplier to Microsoft, and Microsoft will be obliged to pay the amounts of such sales tax to Supplier. Microsoft may be required to provide information to Nebius as reasonably required to determine whether Supplier is obliged to withhold sales tax from Microsoft under local tax legislation. Microsoft will provide Supplier with any applicable tax identification information, tax exemption certificate or further documentation or information, that Supplier may require under applicable law to ensure its compliance with applicable tax law and regulations. Microsoft will be liable to pay or reimburse Nebius for any taxes, interest, penalties, or fines arising out of any misdeclaration or misinformation provided by the Microsoft to Supplier.
+ f.
+ Supplier and Microsoft intend for the Services under the Agreement to be treated as the provision of services for U.S. federal and state income tax purposes. Supplier, as owner of AI infrastructure (incl. GPUs, servers and all other hardware included as part of the Services under the SOW) for U.S. federal & state income tax purposes, will be the sole party entitled to any depreciation deduction on Supplier owned AI Infrastructure and Microsoft hereby agrees not to claim depreciation deductions associated with such property on Microsoft’s U.S. federal, state, or local income tax returns.
+ 7.
+ Section 7 of the PO Terms is deleted in its entirety and replaced with “Reserved”.
+ 8.
+ Sections 8 a. (Service Levels) and c. (Transition) of the PO Terms are deleted in their entirety and replaced with “Reserved”.
+ 9.
+ Sections 9 of the PO Terms are deleted in their entirety and replaced with “Reserved”.
+ 10.
+ Section 12(f) of the PO Terms is amended as follows:
+ f. Supplier grants to Microsoft and its affiliated companies (including their employees, contractors, consultants, outsourced workers, and interns engaged by Microsoft or any of its affiliated companies to perform services), their Customers, and each of their end users (if any), to the limited extent necessary to the performance of the Cloud Services, a worldwide, nonexclusive, unlimited, non-assignable paid-up and royalty free right to access and use, during the term, Cloud Services, in each case for their business purposes. Access to the Cloud Services is unlimited unless otherwise specified in a SOW.
+ 11.
+ Section 12(I)(5) of the PO Terms is amended as follows:
+ Microsoft may revoke the license to Microsoft Materials at any time for any reasonable business reason. The license will terminate automatically on the earlier of the expiration or termination of these PO Terms or an applicable SOW. Supplier will promptly return any Microsoft Materials on request or termination of Supplier’s license. Supplier shall not be liable for any failure to provide, or delay in providing, any Goods, Services or Cloud Services that are reliant on licenses to Microsoft Materials where Microsoft revokes such licenses.
+ 12.
+ Section 13(g) of the PO Terms amended as follows:
+ The third to last sentence shall read: “Upon receipt of reasonable notice from Microsoft, Supplier agrees to provide Microsoft with the import/export control classifications and information, including documentation, on the applicable import, export, or re-export authorizations, and all necessary information about the Items for any required import, export or re-export procedures and/or licenses, without additional cost to Microsoft.”
+ 13.
+ Section 13 is amended as follows:
+ A new Section 13A is incorporated into the PO Terms as follows:
+ Microsoft represents and warrants to Supplier that it does and will comply with all applicable laws and regulations in connection with the Agreement and its use of the Services. Except as otherwise provided under this Agreement, Supplier makes no representations or warranties of any kind, whether express, implied or otherwise regarding the Services, including any warranty that the services will be uninterrupted, error free or free of harmful components, or that any content, including processed Microsoft data, will be secure or not otherwise lost or damaged. Microsoft acknowledges that Supplier does not control or monitor the transfer of data over the internet, and that internet accessibility carries with it the risk that Microsoft’s and its end users’ privacy, confidential information and property may be lost or compromised. Except as otherwise provided under this Agreement or to the extent prohibited by law, supplier disclaims all warranties, including any implied warranties of merchantability, title, fitness for a particular purpose, and any warranties arising from a course of dealing, usage or trade practice.
+ Section 13e is amended by prefacing it with the following words: “other than with respect to the GPU Services,”.
+ 14.
+ Section 14 of the PO Terms is replaced with the following:
+ Termination. 
+ a.
+ Either party may terminate an Agreement on written notice to the other party where that other party:
+ (i)
+ is in material breach of the Agreement, which breach is not capable of remedy, or, where capable of remedy, such breach is not remedied within [*] days of the date of notification of such breach; or
+ (ii)
+ ceases doing business, terminates its existence, dissolves or liquidates, or proceedings are instituted by or against it under any bankruptcy or insolvency law (which proceedings are not dismissed within [*] days), provided that such right of termination shall not arise where a party has entered into Chapter 11 Bankruptcy
+ and is undertaking reorganization or transfer activities in connection with such Chapter 11 Bankruptcy, including the transfer of the Agreement to a solvent entity.
+ b.
+ In the event of a proposed Change of Control of Nebius to which Microsoft has not granted its consent pursuant to Section 22, Microsoft shall have the right to terminate this Agreement; provided, however, that such right may only be exercised by Microsoft by written notice to Nebius delivered during the [*] day period immediately following the earlier of public announcement or notice to Microsoft of such proposed Change of Control; and further provided that such termination shall only become effective at, and shall be conditional upon, closing of such Change of Control.
+ For purposes of this Section:
+ “ Change of Control ” means: (i) a sale of all or substantially all of the assets of Nebius Group N.V. (the ultimate parent company of Nebius) to an Restricted Party; (ii) a sale resulting in more 50% of the voting power of the equity shares of Nebius N.V. being held by a Restricted Party; or (iii) a merger, consolidation, recapitalization, or reorganization of Nebius Group N.V. with or into a Restricted Party that results in the inability of the shareholders Nebius Group N.V. immediately prior to the completion of such transaction to designate or elect a majority of the Board of Directors of Nebius Group N.V. (or the board of directors of the surviving entity or its parent company).
+ “ Restricted Party ” means Amazon or Google.
+ 15.
+ Section 15 of the PO Terms is replaced with the following:
+ The Parties will comply with the data protection requirements in Exhibit A and the security requirements in Exhibit E of the GPU Services SOW. The parties agree that: (a) Supplier shall not process any Personal Data on behalf of Microsoft in connection with the Agreement and Microsoft shall not provide any such Personal Data to Supplier, unless as specifically requested by Microsoft and agreed by Nebius, and Supplier shall not provide any Personal Data to Microsoft to handle unless specifically requested by Supplier and agreed by Microsoft; and (b) in respect of Personal Data, Microsoft is the data controller and is responsible for ensuring it has all necessary rights and legal bases in place as are necessary to comply with applicable data protection laws.
+ 16.
+ Section 16 of the PO Terms is replaced with the following:
+ Supplier will comply with the most current Supplier Code of Conduct at https://aka.ms/scoc and the most current Anti-Corruption Policy for Microsoft Representatives at http://aka.ms/microsoftethics/representatives during the Service Term.
+ 17.
+ Section 18 of the PO Terms is replaced with the following:
+ No Waiver. Either party’s delay or failure to exercise any right or remedy will not result in a waiver of that or any other right or remedy of that party.
+ 18.
+ Section 19 of the PO Terms is replaced with the following:
+ a.
+ NOTHING IN THE PO TERMS OR ANY SOW (INCLUDING IN THIS SECTION 19) SHALL LIMIT OR EXCLUDE THE FOLLOWING LIABILITIES: (i) SUPPLIER’S INDEMNIFICATION OBLIGATIONS STATED IN SECTIONS 21(a)(1), 21(a)(3), A THIRD PARTY CONFIDENTIALITY CLAIM UNDER 21(a)(4) (EXCLUDING PERSONAL DATA), 21(a)(5) and 21(a)(6), AND ITS PAYMENT OBLIGATIONS; (ii) MICROSOFT’S INDEMNIFICATION OBLIGATIONS STATED IN SECTIONS 21(c)(1), 21(c)(3), 21(c)(5) and 21(c)(6); AND (iii) EACH PARTY’S INTENTIONAL INFRINGEMENT OF THE OTHER PARTY’S INTELLECTUAL PROPERTY RIGHTS, DISCLOSURE OF CONFIDENTIAL INFORMATION IN BREACH OF SECTION 23 (FOR CLARITY EXCLUDING PERSONAL DATA AND INFORMATION SECURITY BREACHES), FRAUD, GROSS NEGLIGENCE AND WILFUL MISCONDUCT.
+ b.
+ SUBJECT TO SUBSECTION 19(a) ABOVE AND EXCLUDING LIABILITY UNDER SECTIONS 21(a)(2) (IN RESPECT OF BREACH OF SECTION 15 OR EXHIBIT A), NEITHER PARTY WILL BE LIABLE TO THE OTHER FOR ANY INDIRECT, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES (INCLUDING DAMAGES FOR LOSS OF DATA, REVENUE AND / OR PROFITS), WHETHER FORESEEABLE OR UNFORESEEABLE, WHICH ARISE OUT OF THIS AGREEMENT, REGARDLESS OF WHETHER THE LIABILITY IS BASED ON BREACH OF CONTRACT, TORT, STRICT LIABILITY, BREACH OF WARRANTIES OR OTHERWISE, AND EVEN IF THE PARTY IS ADVISED OF THE POSSIBILITY OF THOSE DAMAGES.
+ c.
+ Subject to subsections 19(a) and 19(b): (i) Supplier’s liability under Section 21(a)(2) for breach of Exhibit A and Section 21(a)(4) (except for a third party claim arising out of Supplier’s breach of Exhibit E of the GPU Services SOW or a third party confidentiality claim (excluding Personal Data)); and (ii) Microsoft’s liability under Section 21(c)(4) (other than a third party confidentiality claim (excluding Personal Data)), and for breach of Section 15 or Exhibit A, shall be limited, for all liabilities arising from the same cause of action, to $[*] ([*] US dollars) per event, whether based on an action or claim in contract, tort (including negligence), breach of statutory duty or otherwise.
+ d.
+ Subject to subsections 19(a) and 19 (b), for all liabilities other than those under Section 19(c) above, either party’s liability to the other in respect of any cause of action, whether based on an action or claim in contract, tort (including negligence), breach of statutory duty or otherwise arising out of, or in relation to, this Agreement, shall be limited to, as a total aggregate cap, one tenth (1/10) of the total Service Fees for the GPU Services as set out in Section 3.2 and Table 1 of the SOW.
+ 19.
+ Section 20 of the PO Terms is replaced with the following:
+ Subcontracting. Supplier may subcontract with any third party to furnish any Goods, Services or Cloud Services without Microsoft’s prior written consent. If Supplier subcontracts any Services or
+ Cloud Services to any subcontractor, Supplier will be fully liable to Microsoft for any actions or inactions of subcontractor, and remain subject to all obligations under these PO Terms.
+ 20.
+ Section 21 of the PO Terms is supplemented as follows:
+ A new 21(c) shall be included as follows:
+ Microsoft will defend, indemnify and hold harmless Supplier and Supplier affiliates companies against all claims, demands, loss, costs, damages, and actions for: (1) actual or alleged infringements of any third-party IP by any Microsoft Materials, Microsoft IP or any data provided by Microsoft or any end user; (2) reserved; (3) any act or omission of or failure to comply with tax obligations or Law by Microsoft or Microsoft’s agents, employees, or end users; (4) any breach by Microsoft or end users of confidentiality, security, or privacy, data protection, or publicity obligations under these PO Terms; (5) the negligent or willful acts or omissions of Microsoft or its end users, which results in any bodily injury, including mental injury, or death to any person or loss, disappearance or damage to tangible or intangible property; and (6) any claims of its employees, affiliated companies or end users regardless of the basis, including, but not limited to, the payment of settlements, judgments, and reasonable attorneys’ fees.
+ A new 21(d) shall be included as follows:
+ In addition to all other remedies available to Supplier, if Supplier’s or its subcontractors’ use of the Microsoft Materials, Microsoft IP or any data provided by Microsoft or any end user under these PO Terms are enjoined, injunction is threatened, or may violate applicable law, Microsoft, at its expense will notify Supplier and immediately replace or modify such Microsoft Materials, Microsoft IP or data provided by Microsoft or any end user so they are non-infringing, compliant with applicable law, and useable by Supplier as necessary to comply with its obligations under the Agreement.
+ A new 21(e) shall be included as follows:
+ The indemnified party shall: (i) promptly give the indemnifying party notice of the claim giving rise to the indemnification obligation, (ii) give the indemnifying party sole control of the defense and settlement of the claim giving rise to the indemnification obligation (except that the indemnifying party may not settle such claim unless it unconditionally releases the indemnified party of all liability), and (iii) give the indemnifying party all reasonable assistance, at the indemnifying party’s expense.
+ 21.
+ Section 23 of the PO Terms is replaced with the following:
+ Non-Disclosure of Confidential Matters. 
+ a.
+ The parties agree that the Non-Disclosure Agreement agreed between the parties dated [*] shall apply in respect of Confidential Information under these PO Terms, provided that the
+ parties agree that each party may disclose the other party’s Confidential Information to its personnel, subcontractors, collocation partners, professional advisors and lenders, that have a need to have access to such Confidential Information in connection with the Agreement and provided that such entities are subject to appropriate duties of confidentiality in respect of such Confidential Information.
+ 22.
+ Section 26 of the PO Terms is replaced with the following:
+ Assignments. 
+ a.
+ No right or obligation of a party under these PO Terms (including the right to receive monies due) will be assigned or transferred without the prior written consent of the other party, provided that either party may assign or transfer (without the prior written consent of the other party) any of its rights or obligations under these PO Terms to its affiliates, or in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets, or in relation to Chapter 11 Bankruptcy where it is undertaking reorganization or transfer activities in connection with such Chapter 11 Bankruptcy, including the transfer of the Agreement to a solvent entity, provided that any assignment by Microsoft is to a third party which must have an investment grade credit rating.
+ b.
+ Notwithstanding Section 26(a) above, Supplier and any assignee may pledge, assign, collaterally assign, hypothecate, sell, convey, or grant a lien or security interest in its right, title and interest in and to the Agreement, the receivables and other payments due hereunder and proceeds thereof, including pursuant to any loan or other debt financing obtained by Supplier, any affiliate, or any assignee, from one or more third-party debt financing sources. In addition, Microsoft acknowledges and agrees that Supplier and any secured party in respect of the financing described above may and is authorized to, in its sole and absolute discretion, file one or more UCC-1 financing statements (and amendments thereto and continuations thereof from time to time) describing the Agreement and the receivables and other payments due hereunder and proceeds thereof, which may include precautionary UCC financing statements.
+ c.
+ Each party shall do all things reasonably necessary to give effect an assignment or transfer permitted under this Section, including that Microsoft will enter into a customary agreement with a secured party or secured party representative, acknowledging the rights of the secured parties as a result of their security interest and the rights of Microsoft pursuant to the Agreement.
+ 23.
+ Section 27 of the PO Terms is deleted in its entirety and replaced with “Reserved”.
+ 24.
+ Section 28 of the PO Terms is deleted in its entirety and replaced with “Reserved”.
+ 25.
+ Section 30 of the PO Terms is replaced with the following:
+ Publicity; Use of Trademarks . Neither party will issue press releases or other publicity related to the relationship of the parties or these PO Terms without prior written approval from the other party, provided that, in respect of such press releases or publicity, Supplier shall comply with Microsoft’s brand guidelines, available at https://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/Usage/General.aspx.
+ Exhibit G – GPU specs ([*]) 
+ Exhibit H – Acceptable Use Policy

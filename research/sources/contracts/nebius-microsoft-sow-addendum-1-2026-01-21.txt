@@ -1,0 +1,81 @@
+Nebius - Microsoft: Addendum Number 1 to the Statement of Work, effective 2026-01-21 (FY2025 Form 20-F, Exhibit 4.5)
+Source (SEC EDGAR, public filing): https://www.sec.gov/Archives/edgar/data/1513845/000110465926052948/nbis-20251231xex4d5.htm
+Heavily redacted.
+Plain-text conversion of the filed HTML exhibit, made 2026-11-11 for research. Layout is lost; wording is unchanged.
+"[*]" marks text the company redacted in the filing. Check the source URL before relying on any passage.
+====================================================================================================
+
+EX-4.5
+ 7
+ nbis-20251231xex4d5.htm
+ EX-4.5
+ Exhibit 4.5 
+ CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [*], HAS BEEN OMITTED BECAUSE THE REGISTRANT HAS DETERMINED THAT THE INFORMATION (I) IS NOT MATERIAL AND (II) IS THE TYPE OF INFORMATION THAT THE REGISTRANT TREATS AS PRIVATE OR CONFIDENTIAL. 
+ Addendum Number 1 to the Nebius Statement of Work 
+ This addendum number 1 (“ Addendum 1 ”) to the Nebius Statement of Work (“ SOW” ) dated September 7, 2025 between Microsoft Corporation (“ Microsoft ”) and Nebius, Inc (“ Nebius ”), is entered into by and between the parties as of January 21, 2026 (“ Addendum 1 Effective Date ”). Capitalized terms not defined in this Addendum 1 will have the meanings assigned to them in the SOW or exhibits thereto.
+ 1.
+ Background . In September 2025 the parties entered into the SOW under which Nebius makes available to Microsoft 9 GPU tranches for a fee, subject to the terms and conditions of the SOW. Under this Addendum 1, Nebius will make available to Microsoft 2 additional GPU tranches, subject to the terms and conditions of the SOW and this Addendum 1. For clarity, the SOW and exhibits thereto remain in full force and effect, except as expressly supplemented or amended in this Addendum 1.
+ 2.
+ Additional GPU Tranches 
+ (a)
+ Nebius will deliver to Microsoft the two additional GPU tranches (each, an “ Additional Tranche ”) by their corresponding Delivery Dates as set out in the table below. Table 1 in Section 1 of the SOW is amended and updated to include the rows in the table below. Each of the Additional Tranches is a GPU Service under the SOW. For clarity, all the terms and conditions of the SOW and exhibits thereto that apply to Tranche #1 – Tranche #9 apply with equal force and effect to the Additional Tranches, except as expressly stated in this Addendum 1.
+ Item # 
+ GPU Service 
+ GPU Service Delivery Date 
+ GPU Service End Date 
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ [*]
+ (b)
+ The Price per GPU for the GPUs in the Additional Tranches will be as specified in Section 3.1 of the SOW. The table below specifies the GPU Type, GPU Quantity, Delivery Date, End Date, and Tranche Value for each of the Additional Tranches.
+ GPU Service 
+ [*]
+ [*]
+ GPU Type 
+ [*]
+ [*]
+ GPU Quantity 
+ [*]
+ [*]
+ Delivery Date 
+ [*]
+ [*]
+ End Date 
+ [*]
+ [*]
+ Tranche Value 
+ [*]
+ [*]
+ (c)
+ The total fees for the GPU Services (i.e. the Service Fees) specified in Section 3.2 of the SOW will be increased by the Tranche Value of each of the Additional Tranches.
+ (d)
+ Section 3.2 (a)(ii) of the SOW will not apply to the Additional Tranches. There will not be an Upfront Payment for any of the Additional Tranches.
+ (e)
+ The monthly installment amount for each of the Additional Tranches will be calculated by multiplying the number of GPUs in the Additional Tranche by the Price per GPU multiplied by the number of hours in the month.
+ (f)
+ Section 3.3(h) of the SOW will not apply to the Additional Tranches.
+ (g)
+ Section 7 (“Exclusions and Limitations”) of Exhibit A to the SOW (“Service Level Agreement and Support Addendum”) is amended with the addition of the following as Section 7.a.i:
+ “Notwithstanding anything to the contrary in this Agreement, the Monthly Uptime Percentage for the first tranche will be [*] until [*]. The credit for failure to meet this uptime percentage will be [*]”
+ 3.
+ Term and Termination . The term of this Addendum 1 will commence on the Addendum 1 Effective Date and will continue in effect until the SOW terminates or expires.
+ Agreed and accepted 
+ “Microsoft” 
+ “Nebius” 
+ Signature:
+ /s/ Scott Guthrie
+ Signature:
+ /s/ Boaz Tal
+ NAME: SCOTT GUTHRIE
+ Name: BOAZ TAL
+ Title: EXECUTIVE VICE-PRESIDENT
+ Title: GENERAL COUNSEL
+ Date:
+ 01/21/2026
+ Date:
+ 01/22/2026
