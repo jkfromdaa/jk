@@ -23,6 +23,7 @@ Read [`research/00-summary.md`](research/00-summary.md). It holds the conclusion
 | [`research/coreweave/02-backlog-and-contracts.md`](research/coreweave/02-backlog-and-contracts.md) | Backlog definition and history, conversion schedule, contract ledger, which contracts are filed, verbatim termination terms, slippage to date |
 | [`research/nebius/01-facilities.md`](research/nebius/01-facilities.md) | The same site inventory for Nebius |
 | [`research/nebius/02-backlog-and-contracts.md`](research/nebius/02-backlog-and-contracts.md) | The same backlog and contract analysis for Nebius |
+| [`research/tracker.md`](research/tracker.md) | Five industry signals to watch, each with a dated baseline, the latest reading and the matching CoreWeave and Nebius numbers |
 | [`research/sources/contracts/`](research/sources/contracts/) | Plain-text copies of the nine customer agreements the two companies have filed with the SEC (redacted by the filers). Each file starts with its source URL |
 
 ## How evidence is marked
