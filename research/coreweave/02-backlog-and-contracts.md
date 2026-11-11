@@ -11,7 +11,7 @@ Verification marks used on every fact:
 - **INFERRED** = my own arithmetic or reading; not a company statement.
 - Tiers: T1 CoreWeave filing / release / call; T2 counterparty filing or release; T3 financial or trade press; T4 blogs, short reports, law-firm releases, social media.
 
-Access notes: SEC filing text, fool.com transcripts (Q4 2025, Q1–Q3 2026 only), coreweave.com releases and SEC XBRL were read directly. investors.coreweave.com and its file CDN were not reachable, so the Q3 2026 earnings presentation and the 2025 call transcripts were NOT read in the original. The web-search budget ran out before two planned look-ups (Reuters factbox on contracts-by-lender; the "technical default" report), which are listed under open questions.
+Access notes: SEC filing text, fool.com transcripts (Q4 2025, Q1–Q3 2026 only), coreweave.com releases and SEC XBRL were read directly. investors.coreweave.com and its file CDN were not reachable, so the Q3 2026 earnings presentation and the 2025 call transcripts were NOT read in the original. Two planned look-ups were not done (Reuters factbox on contracts-by-lender; the "technical default" report); they are listed under open questions.
 
 ---
 
@@ -311,7 +311,7 @@ No instance of a customer cancelling or reducing a committed contract has been d
 9. OpenAI $4B order end date; the clause text for the "repeated failure" termination right.
 10. Per-customer share of backlog and the current investment-grade share (last company figure: Q1 2026, non-IG labs/AI natives <30%).
 11. 2025 earnings-call transcripts (Q1–Q3 2025) were not read in the original; Q3 2025 delay wording rests on press.
-12. Not searched (search budget exhausted): Reuters factbox mapping contracts to lenders (2026-10-15); the report that CoreWeave "triggered technical defaults" on a loan; details of the November 2026 Texas/moratorium news.
+12. Not searched: Reuters factbox mapping contracts to lenders (2026-10-15); the report that CoreWeave "triggered technical defaults" on a loan; details of the November 2026 Texas/moratorium news.
 13. Weighted-average remaining contract term; any 12-month RPO bucket.
 
 ---
